@@ -45,7 +45,7 @@ module.exports = {
     // Functional
 
     'react/react-in-jsx-scope': 'off',
-    'linebreak-style': ['error', 'unix'],
+
     eqeqeq: ['error', 'always', { null: 'ignore' }],
     camelcase: ['error', { properties: 'never' }],
     quotes: ['error', 'single', { avoidEscape: true }],
